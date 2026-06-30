@@ -51,8 +51,8 @@ Outside of code: music, gaming, and a tech watch that never stops
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=NizardV&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NizardV&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NizardV&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://readme-stats-lime-chi.vercel.app/api?username=NizardV&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://readme-stats-lime-chi.vercel.app/api/top-langs/?username=NizardV&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
