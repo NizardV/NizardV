@@ -5,7 +5,8 @@
 > Developer, curious mind, probably too ambitious for my own good.
 
 [![Portfolio](https://img.shields.io/badge/nizard.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nizard.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nizard-verdenal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/nizard-verdenal)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Nizard_V)
 
 </div>
 
